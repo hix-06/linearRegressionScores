@@ -37,4 +37,4 @@ What I've Learned in This Task:
 - Making predictions on new data points.
 - MAE represents the average absolute difference between the actual and predicted values.
 - R-squared measures the proportion of the variance in the dependent variable that is predictable from the independent variable(s).
-- a high R-squared value and a relatively low MAE are positive indicators. It
+- a high R-squared value and a relatively low MAE are positive indicators.
